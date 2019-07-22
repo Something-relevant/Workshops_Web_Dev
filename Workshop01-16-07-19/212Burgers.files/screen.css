@@ -77,9 +77,10 @@
 }
 
 #footer {
-  padding: 2em;
+  padding: 1em;
   font-family: 'Monda', sans-serif;
   font-size: 1em;
+  text-align: center;
 }
 
 /*class selectors*/
